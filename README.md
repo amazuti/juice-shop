@@ -7,8 +7,7 @@
 [![bitHound Overall Score](https://www.bithound.io/github/bkimminich/juice-shop/badges/score.svg)](https://www.bithound.io/github/bkimminich/juice-shop)
 
 > [The most trustworthy online shop out there.](https://twitter.com/dschadow/status/706781693504589824)
-> ([@dschadow](https://github.com/dschadow))
-> —
+> ([@dschadow](https://github.com/dschadow)) —
 > [The best juice shop on the whole internet!](https://twitter.com/shehackspurple/status/907335357775085568)
 > ([@shehackspurple](https://twitter.com/shehackspurple))
 
@@ -21,7 +20,7 @@ severe security flaws.
 
 For a detailed introduction, full list of features and architecture
 overview please visit the official project page:
-<https://www.owasp.org/index.php/OWASP_Juice_Shop_Project>
+<http://owasp-juice.shop>
 
 ## Setup
 
@@ -137,10 +136,10 @@ images and packaged distributions are offered accordingly:
 | __6.x__ | __`latest`__ (current official release), `snapshot` (preview from `develop` branch) | `juice-shop-<version>_node6_windows_x64.zip`, `juice-shop-<version>_node6_linux_x64.tgz` |
 | 8.x     |                                                                                     | `juice-shop-<version>_node8_windows_x64.zip`, `juice-shop-<version>_node8_linux_x64.tgz` |
 
-## Preview [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop)](https://juice-shop.herokuapp.com)
+## Demo [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop)](http://demo.owasp-juice.shop)
 
 Feel free to have a look at the latest version of OWASP Juice Shop:
-<https://juice-shop.herokuapp.com>
+<http://demo.owasp-juice.shop>
 
 > This is a deployment-test and sneak-peek instance only! You are __not
 > supposed__ to use this instance for your own hacking endeavours! No
@@ -249,8 +248,16 @@ your plans! !
 ### PayPal [![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40owasp%2eorg&lc=BM&item_name=OWASP%20Juice%20Shop%20Project&item_number=OWASP%20Foundation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF)
 
 PayPal donations via above button go to the OWASP Foundations and are
-earmarked for "Juice Shop". This is the preferred way to support the
-project.
+earmarked for "Juice Shop". This is the preferred and most convenient
+way to support the project.
+
+### Credit Card (through RegOnline)
+
+OWASP hosts a
+[donation form on RegOnline](https://www.regonline.com/Register/Checkin.aspx?EventID=1044369).
+Refer to the
+[Credit card donation step-by-step](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part3/donations.html#credit-card-donation-step-by-step)
+guide for help with filling out the donation form correctly.
 
 ### Others
 
